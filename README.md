@@ -11,6 +11,8 @@
 This is the fourth and the final project of my Udacity Data Science Nano Degree. In this project, I will be exploring the Airbnb dataset for Amsterdam to identify the best neighbourhoods in Amsterdam, the different types of accommodations types and their respective prices and finally we will investigate the dataset to understand the feautres that influence the price. We will be using three different Machine Learning models to predict the price.
 
 Unlike my first project, where i explored the Airbnb dataset for Berlin to answer business questions using Crisp-DM, here i will going into more deeper details to further investigate the dataset and also, i will be using more than one Machine Learning model to find out how the performance of the model changes with the type of problem.
+
+# Motivation.
 The motivation of this project came from the first project of my Udacity Nano Degree where i explroed the data set of Airbnb Berlin but i did not go into too many details because of some limitations, one of them being time. As we were flexible with the selection of our Capstone project, i decided to use the knowledge i have learnt throught this nano degree to dig deeper into the same project but this time i decided to use the data set of Airbnb Amsterdam and i also investigated more than one type of machine learning model e.g. Linear Regression, ADABoost and RandomForest. I think overall, this project helped me understand and apply the concepts that i really wanted to after i finihsed my first project with Airbnb Berlin dataset. 
 
 Whenever you, as a traveller, plan to travel to a new city, you look for the best possible accomodation. everyone has their own definition of 'best' but i thought of the following three questions
