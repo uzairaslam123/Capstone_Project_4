@@ -59,7 +59,7 @@ The files are descibed below.
 
 ## Conclusion<a name="conclusion"></a>
 I have written my conclusion for each question in their respective jupyter notebook.
-For more details please visit my blog (https://medium.com/me/stats/post/fc03aad6d6a6).
+For more details please visit my blog (https://medium.com/@uzairaslam.vf/predicting-the-price-of-airbnb-accommodations-in-amsterdam-using-machine-learning-3e695a949091).
 
 
 
